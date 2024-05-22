@@ -15,7 +15,7 @@ loans:
   message: "Welcome to EazyBank LOANSsss related local APIs GIT"
   contactDetails:
     name: "John loans - local GIT"
-    email: "john@local.com"
+    email: "{cipher}48d0a0ae69a94c01068dc167c1472c02eb4f67a8984696c8f0d09f1a87f3eb10"
   onCallSupport:
     - (555) 555-9878
     - (555) 523-9878
