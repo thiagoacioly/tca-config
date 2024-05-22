@@ -1,0 +1,47 @@
+#spring:
+#  config:
+#    import:
+#      - "cards-qa.yml"
+#      - "cards-prod.yml"
+#  profiles:
+#    active:
+#      - "qa"
+
+# Properties to be ready inside the app
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank CARDS related local APIs GIT"
+  contactDetails:
+    name: "John cards - Developer GIT"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
+
+
+# it is now handled by spring cloud config.
+#server:
+#  port: 9000
+#spring:
+#  datasource:
+#    url: jdbc:h2:mem:testdb
+#    driverClassName: org.h2.Driver
+#    username: sa
+#    password: ''
+#  h2:
+#    console:
+#      enabled: true
+#  jpa:
+#    database-platform: org.hibernate.dialect.H2Dialect
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
+#  config:
+#    import:
+#      - "cards-qa.yml"
+#      - "cards-prod.yml"
+#  profiles:
+#    active:
+#      - "qa"

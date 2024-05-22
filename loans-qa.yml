@@ -1,0 +1,19 @@
+# Spring boot profiles
+# it is now handled by spring cloud config.
+#spring:
+#  config:
+#    activate:
+#      on-profile: "qa"
+
+# Properties to be ready inside the app
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to EazyBank LOANSsss related QA APIs GIT"
+  contactDetails:
+    name: "John loans - QualityAssurance GIT"
+    email: "john@QualityAssurance.com"
+  onCallSupport:
+    - (555) 555-9878
+    - (555) 523-9878

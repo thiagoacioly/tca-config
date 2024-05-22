@@ -1,0 +1,19 @@
+# Spring boot profiles
+# it is now handled by spring cloud config.
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+
+# Properties to be ready inside the app
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank LOANS related Production APIs GIT"
+  contactDetails:
+    name: "John loans - Production GIT"
+    email: "john@Production.com"
+  onCallSupport:
+    - (555) 555-4545
+    - (555) 523-4545
