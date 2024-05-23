@@ -10,9 +10,9 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank CARDSss related QualityAssurance APIs GIT"
+  message: "Welcome to EazyBank CARDSss related QualityAssurance 3 APIs GIT"
   contactDetails:
-    name: "John Doe - QualityAssurance GIT 2"
+    name: "John Doe - QualityAssurance GIT 3"
     email: "john@QualityAssurance.com"
   onCallSupport:
     - (555) 555-9878
