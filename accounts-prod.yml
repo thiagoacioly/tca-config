@@ -10,9 +10,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Production APIs GIT"
+  message: "Welcome to EazyBank accounts related Production APIs GIT webhook"
   contactDetails:
-    name: "John Doe - Production GIT"
+    name: "John Doe - Production GIT webhook"
     email: "john@Production.com"
   onCallSupport:
     - (555) 555-4545

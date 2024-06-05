@@ -10,9 +10,9 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank CARDSss related QA APIs GIT"
+  message: "Welcome to EazyBank CARDSss related QualityAssurance 5 APIs GIT and spring bus Rabbitmq"
   contactDetails:
-    name: "John Doe - QualityAssurance GIT"
+    name: "John Doe - QualityAssurance GIT 5"
     email: "john@QualityAssurance.com"
   onCallSupport:
     - (555) 555-9878

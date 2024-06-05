@@ -10,9 +10,9 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs GIT"
+  message: "Welcome to EazyBank accounts related QA APIs GIT and spring bus and rabbitmq"
   contactDetails:
-    name: "John Doe - QualityAssurance GIT"
+    name: "John Doe - QualityAssurance GIT and spring bus and rabbitmq"
     email: "john@QualityAssurance.com"
   onCallSupport:
     - (555) 555-9878

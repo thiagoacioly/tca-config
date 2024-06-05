@@ -10,9 +10,9 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EazyBank LOANSsss related QA APIs GIT"
+  message: "Welcome to EazyBank LOANSsss related QA APIs GIT and spring bus Rabbitmq 1"
   contactDetails:
-    name: "John loans - QualityAssurance GIT"
+    name: "John loans - QualityAssurance GIT and spring bus Rabbitmq 1"
     email: "john@QualityAssurance.com"
   onCallSupport:
     - (555) 555-9878
